@@ -68,7 +68,6 @@
   <inspection_tool class="EqualsAndHashcode" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EqualsHashCodeCalledOnUrl" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EqualsUsesNonFinalVariable" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ErrorRethrown" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ExceptionFromCatchWhichDoesntWrap" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreGetMessage" value="false" />
     <option name="ignoreCantWrap" value="false" />
@@ -187,12 +186,6 @@
   <inspection_tool class="PackageDotHtmlMayBePackageInfo" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PackageInfoWithoutPackage" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PointlessIndexOfComparison" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PublicField" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreEnums" value="false" />
-    <option name="ignorableAnnotations">
-      <value />
-    </option>
-  </inspection_tool>
   <inspection_tool class="PublicFieldAccessedInSynchronizedContext" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PublicStaticArrayField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PublicStaticCollectionField" enabled="true" level="WARNING" enabled_by_default="true" />
