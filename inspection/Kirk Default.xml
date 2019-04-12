@@ -167,7 +167,6 @@
   <inspection_tool class="NotifyCalledOnCondition" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NotifyWithoutCorrespondingWait" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NullThrown" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ObjectAllocationInLoop" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ObjectInstantiationInEqualsHashCode" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ObjectNotify" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ObjectToString" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -234,7 +233,7 @@
     <option name="m_ignorePrimitives" value="false" />
   </inspection_tool>
   <inspection_tool class="StringBufferToStringInConcatenation" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="StringConcatenation" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="StringConcatenation" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreAsserts" value="false" />
     <option name="ignoreSystemOuts" value="false" />
     <option name="ignoreSystemErrs" value="false" />
