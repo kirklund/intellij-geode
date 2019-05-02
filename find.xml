@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/cache/client/internal/CacheServerSSLConnectionDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/cache/client/internal/CacheServerSSLConnectionDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/cache30/CacheXml66DUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/cache30/CacheXml66DUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/cache/client/internal/CacheServerSSLConnectionDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/cache30/CacheXml66DUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
