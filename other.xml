@@ -1,0 +1,37 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="enabled_inspections">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MagicConstant</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/dev/geode/etc/intellij-java-modified-google-style.xml" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="export.settings.path" value="C:\Users\kirkl\dev\intellij-config\settings.zip" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/dev/intellij-config/enabled_inspections.xml&#10;C:/Users/kirkl/dev/geode/build.gradle&#10;C:/Users/kirkl/dev/geode/etc/intellij-java-modified-google-style.xml" />
+    <property name="file.gist.reindex.count" value="7749" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="last.imported.location" value="$USER_HOME$/dev/geode/build.gradle" />
+    <property name="lastTip" value="1" />
+  </component>
+</application>
