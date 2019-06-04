@@ -1,16 +1,8 @@
 <application>
-  <component name="AndroidFoldingSettings">
-    <option name="collapseAndroidStrings" value="false" />
-    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
-  </component>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="org.junit.Ignore" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Kirk Default" />
+  <component name="DaemonCodeAnalyzerSettings" profile="enabled_inspections" />
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />

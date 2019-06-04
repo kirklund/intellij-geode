@@ -2,14 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="deleteme" type="PLAIN_TEXT" />
-      <mapping pattern="publickeyfile" type="PLAIN_TEXT" />
-      <mapping pattern="Aaa" type="PLAIN_TEXT" />
-      <mapping ext="bt" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="gfs" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
