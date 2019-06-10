@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/main/java/org/apache/geode/distributed/internal/membership/gms/locator/GMSLocator.java [geode-core_main]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/main/java/org/apache/geode/distributed/internal/membership/gms/locator/GMSLocator.java [geode-core_main]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/main/java/org/apache/geode/distributed/internal/membership/gms/locator/GMSLocator.java [geode-core_main]'" />
   </component>
 </application>
