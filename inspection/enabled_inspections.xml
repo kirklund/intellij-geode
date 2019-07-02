@@ -53,6 +53,7 @@
     <option name="ignoreOnVolatileVariables" value="false" />
   </inspection_tool>
   <inspection_tool class="DuplicateBooleanBranch" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DuplicateExpressions" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="DynamicRegexReplaceableByCompiledPattern" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignorableAnnotations">
