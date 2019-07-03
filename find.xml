@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/internal/cache/control/RebalanceOperationDUnitTest.java [geode-core_distributedTest]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/internal/cache/control/RebalanceOperationDUnitTest.java [geode-core_distributedTest]'" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/main/java/org/apache/geode/internal/cache/PersistentOplogSet.java [geode-core_main]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/main/java/org/apache/geode/internal/cache/PersistentOplogSet.java [geode-core_main]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/internal/cache/control/RebalanceOperationDUnitTest.java [geode-core_distributedTest]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/main/java/org/apache/geode/internal/cache/PersistentOplogSet.java [geode-core_main]'" />
   </component>
 </application>
