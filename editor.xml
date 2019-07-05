@@ -4,6 +4,20 @@
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
-    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Groovy" value="true" />
+        <entry key="HOCON" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="Scala" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
 </application>
