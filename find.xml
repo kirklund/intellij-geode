@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/management/internal/cli/commands/AlterAsyncEventQueueCommandTest.java [geode-core_test]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/management/internal/cli/commands/AlterAsyncEventQueueCommandTest.java [geode-core_test]'" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/management/internal/cli/commands/AlterAsyncEventQueueCommandTest.java [geode-core_test]'" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/internal/config/JAXBServiceTest.java [geode-core_test]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/internal/config/JAXBServiceTest.java [geode-core_test]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/internal/config/JAXBServiceTest.java [geode-core_test]'" />
   </component>
 </application>
