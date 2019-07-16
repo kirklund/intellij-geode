@@ -3,9 +3,7 @@
     <option name="customScope" value="File '~/dev/gemfire/geode/geode-assembly/src/acceptanceTest/java/org/apache/geode/metrics/SingleFunctionJarRule.java [org.apache.geode.geode-assembly.acceptanceTest]'" />
     <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-assembly/src/acceptanceTest/java/org/apache/geode/metrics/SingleFunctionJarRule.java [org.apache.geode.geode-assembly.acceptanceTest]'" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-assembly/src/acceptanceTest/java/org/apache/geode/metrics/SingleFunctionJarRule.java [org.apache.geode.geode-assembly.acceptanceTest]'" />
   </component>
 </application>
