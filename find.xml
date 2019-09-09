@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/cache30/ReconnectDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/cache30/ReconnectDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/integrationTest/java/org/apache/geode/internal/AvailablePortHelperIntegrationTest.java [org.apache.geode.geode-core.integrationTest]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/integrationTest/java/org/apache/geode/internal/AvailablePortHelperIntegrationTest.java [org.apache.geode.geode-core.integrationTest]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/cache30/ReconnectDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/integrationTest/java/org/apache/geode/internal/AvailablePortHelperIntegrationTest.java [org.apache.geode.geode-core.integrationTest]'" />
     <option name="FILE_MASK" value="*.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
