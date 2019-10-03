@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/integrationTest/java/org/apache/geode/internal/AvailablePortHelperIntegrationTest.java [org.apache.geode.geode-core.integrationTest]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/integrationTest/java/org/apache/geode/internal/AvailablePortHelperIntegrationTest.java [org.apache.geode.geode-core.integrationTest]'" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-dunit/src/distributedTest/java/org/apache/geode/test/dunit/rules/tests/DistributedReferenceDistributedTest.java [org.apache.geode.geode-dunit.distributedTest]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-dunit/src/distributedTest/java/org/apache/geode/test/dunit/rules/tests/DistributedReferenceDistributedTest.java [org.apache.geode.geode-dunit.distributedTest]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/integrationTest/java/org/apache/geode/internal/AvailablePortHelperIntegrationTest.java [org.apache.geode.geode-core.integrationTest]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-dunit/src/distributedTest/java/org/apache/geode/test/dunit/rules/tests/DistributedReferenceDistributedTest.java [org.apache.geode.geode-dunit.distributedTest]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
