@@ -3,7 +3,9 @@
     <option name="customScope" value="File '.../geode-dunit/src/main/java/org/apache/geode/test/dunit/AsyncInvocation.java [org.apache.geode.geode-dunit.main]'" />
     <option name="defaultScopeName" value="File '.../geode-dunit/src/main/java/org/apache/geode/test/dunit/AsyncInvocation.java [org.apache.geode.geode-dunit.main]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../geode-dunit/src/main/java/org/apache/geode/test/dunit/AsyncInvocation.java [org.apache.geode.geode-dunit.main]'" />
   </component>
 </application>
