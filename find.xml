@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/internal/cache/ColocationLoggerTest.java [org.apache.geode.geode-core.test]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/internal/cache/ColocationLoggerTest.java [org.apache.geode.geode-core.test]'" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/main/java/org/apache/geode/internal/cache/colocation/ColocationLoggerImpl.java [org.apache.geode.geode-core.main]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/main/java/org/apache/geode/internal/cache/colocation/ColocationLoggerImpl.java [org.apache.geode.geode-core.main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/internal/cache/ColocationLoggerTest.java [org.apache.geode.geode-core.test]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/main/java/org/apache/geode/internal/cache/colocation/ColocationLoggerImpl.java [org.apache.geode.geode-core.main]'" />
   </component>
 </application>
