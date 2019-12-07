@@ -45,6 +45,7 @@
   <inspection_tool class="ConfusingElse" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="reportWhenNoStatementFollow" value="true" />
   </inspection_tool>
+  <inspection_tool class="Convert2MethodRef" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CovariantEquals" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CyclomaticComplexity" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_limit" value="10" />
@@ -269,7 +270,7 @@
     <option name="m_onlyLookAtBlocks" value="false" />
   </inspection_tool>
   <inspection_tool class="TooBroadThrows" enabled="true" level="INFORMATION" enabled_by_default="true">
-    <scope name="Production" level="WARNING" enabled="true" />
+    <scope name="Production" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="TransientFieldInNonSerializableClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TrivialStringConcatenation" enabled="true" level="WARNING" enabled_by_default="true" />
