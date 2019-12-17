@@ -3,7 +3,9 @@
     <option name="customScope" value="File '.../geode-core/src/integrationTest/java/org/apache/geode/cache/CacheFactoryRecreateRegressionTest.java [org.apache.geode.geode-core.integrationTest]'" />
     <option name="defaultScopeName" value="File '.../geode-core/src/integrationTest/java/org/apache/geode/cache/CacheFactoryRecreateRegressionTest.java [org.apache.geode.geode-core.integrationTest]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../geode-core/src/integrationTest/java/org/apache/geode/cache/CacheFactoryRecreateRegressionTest.java [org.apache.geode.geode-core.integrationTest]'" />
   </component>
 </application>
