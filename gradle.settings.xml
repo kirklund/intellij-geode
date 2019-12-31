@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="gradleVmOptions" value="-Dcomposite=true" />
+    <option name="gradleVmOptions" value="-Dcomposite" />
   </component>
 </application>

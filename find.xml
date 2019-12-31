@@ -1,9 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../geode-core/src/test/java/org/apache/geode/internal/process/ProcessLauncherContextTest.java [org.apache.geode.geode-core.test]'" />
-    <option name="defaultScopeName" value="File '.../geode-core/src/test/java/org/apache/geode/internal/process/ProcessLauncherContextTest.java [org.apache.geode.geode-core.test]'" />
+    <option name="customScope" value="File '.../geode-core/src/distributedTest/java/org/apache/geode/internal/cache/DeltaPropagationDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
+    <option name="defaultScopeName" value="File '.../geode-core/src/distributedTest/java/org/apache/geode/internal/cache/DeltaPropagationDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../geode-core/src/test/java/org/apache/geode/internal/process/ProcessLauncherContextTest.java [org.apache.geode.geode-core.test]'" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '.../geode-core/src/distributedTest/java/org/apache/geode/internal/cache/DeltaPropagationDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
   </component>
 </application>
