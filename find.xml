@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/internal/cache/partitioned/fixed/FixedPartitioningWithColocationAndPersistenceDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/internal/cache/partitioned/fixed/FixedPartitioningWithColocationAndPersistenceDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/internal/cache/partitioned/fixed/FixedPartitioningWithColocationAndPersistenceDUnitTest.java [org.apache.geode.geode-core.distributedTest]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
