@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/internal/cache/DestroyRegionDuringGIIDistributedTest.java [org.apache.geode.geode-core.distributedTest]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/internal/cache/DestroyRegionDuringGIIDistributedTest.java [org.apache.geode.geode-core.distributedTest]'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/distributedTest/java/org/apache/geode/internal/cache/DestroyRegionDuringGIIDistributedTest.java [org.apache.geode.geode-core.distributedTest]'" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-junit/src/test/java/org/apache/geode/test/junit/rules/serializable/SerializableTemporaryFolderTest.java [org.apache.geode.geode-junit.test]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-junit/src/test/java/org/apache/geode/test/junit/rules/serializable/SerializableTemporaryFolderTest.java [org.apache.geode.geode-junit.test]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-junit/src/test/java/org/apache/geode/test/junit/rules/serializable/SerializableTemporaryFolderTest.java [org.apache.geode.geode-junit.test]'" />
   </component>
 </application>
