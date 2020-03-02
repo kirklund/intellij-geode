@@ -2,6 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '~/dev/gemfire/geode/geode-junit/src/test/java/org/apache/geode/test/junit/rules/serializable/SerializableTemporaryFolderTest.java [org.apache.geode.geode-junit.test]'" />
     <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-junit/src/test/java/org/apache/geode/test/junit/rules/serializable/SerializableTemporaryFolderTest.java [org.apache.geode.geode-junit.test]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-junit/src/test/java/org/apache/geode/test/junit/rules/serializable/SerializableTemporaryFolderTest.java [org.apache.geode.geode-junit.test]'" />
   </component>
 </application>
