@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="alertingprovider" type="PLAIN_TEXT" />
+      <mapping pattern="pmdDistributedTest" type="XML" />
     </extensionMap>
   </component>
 </application>
