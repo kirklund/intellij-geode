@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/management/internal/LocalManagerTest.java [org.apache.geode.geode-core.test]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/management/internal/LocalManagerTest.java [org.apache.geode.geode-core.test]'" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-dunit/src/main/java/org/apache/geode/management/MBeanUtil.java [org.apache.geode.geode-dunit.main]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-dunit/src/main/java/org/apache/geode/management/MBeanUtil.java [org.apache.geode.geode-dunit.main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
@@ -12,6 +12,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-core/src/test/java/org/apache/geode/management/internal/LocalManagerTest.java [org.apache.geode.geode-core.test]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-dunit/src/main/java/org/apache/geode/management/MBeanUtil.java [org.apache.geode.geode-dunit.main]'" />
   </component>
 </application>
