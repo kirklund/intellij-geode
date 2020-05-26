@@ -5,7 +5,7 @@
         <LogHighlightingPattern pattern="^\s*e(rror)?\s*$" action="HIGHLIGHT_LINE" fg="-65536" bold="true" stripe="true" />
         <LogHighlightingPattern pattern="^\s*w(arn(ing)?)?\s*$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
         <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" />
-        <LogHighlightingPattern pattern="^\s*kirk?\s*$" action="HIGHLIGHT_LINE" bold="true" stripe="true" />
+        <LogHighlightingPattern pattern="^.*KIRK:.*" action="HIGHLIGHT_LINE" fg="-256" stripe="true" />
       </list>
     </Patterns>
     <parsing>
@@ -18,5 +18,7 @@
     </parsing>
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
+    <errorStripeModel>normal</errorStripeModel>
+    <readonlySizeThreshold>8192</readonlySizeThreshold>
   </component>
 </application>
