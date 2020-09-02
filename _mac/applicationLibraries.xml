@@ -1,0 +1,1283 @@
+<application>
+  <component name="libraryTable">
+    <library name="antlr:antlr:2.7.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/antlr/antlr/2.7.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/antlr/antlr/2.7.4" recursive="false" />
+    </library>
+    <library name="cglib:cglib:3.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/cglib/cglib/3.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/cglib/cglib/3.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/cglib/cglib/3.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/cglib/cglib/3.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.fasterxml.jackson.core:jackson-annotations:2.9.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.fasterxml.jackson.core:jackson-core:2.9.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.fasterxml.jackson.core:jackson-databind:2.9.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.fasterxml.jackson.core:jackson-module-paranamer:2.9.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-paranamer/2.9.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-paranamer/2.9.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-paranamer/2.9.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-paranamer/2.9.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.fasterxml.jackson.core:jackson-module-scala_2.12:2.9.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.12/2.9.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.12/2.9.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.12/2.9.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.12/2.9.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.fasterxml:classmate:0.9.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/classmate/0.9.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/classmate/0.9.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/classmate/0.9.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/fasterxml/classmate/0.9.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.github.stefanbirkner:system-rules:1.16">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/github/stefanbirkner/system-rules/1.16.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/github/stefanbirkner/system-rules/1.16.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/github/stefanbirkner/system-rules/1.16.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/github/stefanbirkner/system-rules/1.16.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.github.stephenc.findbugs:findbugs-annotations:1.0-1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/github/stephenc/findbugs/findbugs-annotations/1.0-1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/github/stephenc/findbugs/findbugs-annotations/1.0-1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/github/stephenc/findbugs/findbugs-annotations/1.0-1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/github/stephenc/findbugs/findbugs-annotations/1.0-1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.google.code.findbugs:findbugs-ant:2.0.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/google/code/findbugs/findbugs-ant/2.0.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/google/code/findbugs/findbugs-ant/2.0.2" recursive="false" />
+    </library>
+    <library name="com.google.guava:guava:15.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.jayway.awaitility:awaitility:1.7.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/jayway/awaitility/awaitility/1.7.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/jayway/awaitility/awaitility/1.7.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/jayway/awaitility/awaitility/1.7.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/jayway/awaitility/awaitility/1.7.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.jayway.jsonpath:json-path-assert:2.2.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path-assert/2.2.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path-assert/2.2.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path-assert/2.2.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path-assert/2.2.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.jayway.jsonpath:json-path:2.2.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.2.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.jcraft:jsch:0.1.44">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.44" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.44" recursive="false" />
+    </library>
+    <library name="com.mangofactory:swagger-springmvc:0.8.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/mangofactory/swagger-springmvc/0.8.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/mangofactory/swagger-springmvc/0.8.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/mangofactory/swagger-springmvc/0.8.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/mangofactory/swagger-springmvc/0.8.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.springsource.bundlor:com.springsource.bundlor.ant:1.0.0.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor.ant/1.0.0.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor.ant/1.0.0.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor.ant/1.0.0.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor.ant/1.0.0.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.springsource.bundlor:com.springsource.bundlor.blint:1.0.0.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor.blint/1.0.0.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor.blint/1.0.0.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor.blint/1.0.0.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor.blint/1.0.0.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.springsource.bundlor:com.springsource.bundlor:1.0.0.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor/1.0.0.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor/1.0.0.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor/1.0.0.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor/1.0.0.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.thoughtworks.paranamer:paranamer:2.8">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.8" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.8" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.8" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.8" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.wordnik:swagger-annotations:1.3.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/wordnik/swagger-annotations/1.3.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/wordnik/swagger-annotations/1.3.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/wordnik/swagger-annotations/1.3.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/wordnik/swagger-annotations/1.3.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.wordnik:swagger-core_2.10:1.3.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/wordnik/swagger-core_2.10/1.3.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/wordnik/swagger-core_2.10/1.3.2" recursive="false" />
+    </library>
+    <library name="commons-fileupload:commons-fileupload:1.3.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="commons-io:commons-io:2.3">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/commons-io/commons-io/2.3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/commons-io/commons-io/2.3" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-io/commons-io/2.3" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-io/commons-io/2.3" recursive="false" type="SOURCES" />
+    </library>
+    <library name="commons-lang:commons-lang:2.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4" recursive="false" type="SOURCES" />
+    </library>
+    <library name="commons-logging:commons-logging:1.1.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="commons-modeler:commons-modeler:2.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/commons-modeler/commons-modeler/2.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/commons-modeler/commons-modeler/2.0" recursive="false" />
+    </library>
+    <library name="dom4j:dom4j:1.6.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="edu.umd.cs.mtc:multithreadedtc:1.01">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/edu/umd/cs/mtc/multithreadedtc/1.01" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/edu/umd/cs/mtc/multithreadedtc/1.01" recursive="false" />
+    </library>
+    <library name="eu.codearte.catch-exception:catch-exception:1.4.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/eu/codearte/catch-exception/catch-exception/1.4.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/eu/codearte/catch-exception/catch-exception/1.4.4" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/eu/codearte/catch-exception/catch-exception/1.4.4" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/eu/codearte/catch-exception/catch-exception/1.4.4" recursive="false" type="SOURCES" />
+    </library>
+    <library name="eu.codearte.catch-exception:catch-throwable:1.4.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/eu/codearte/catch-exception/catch-throwable/1.4.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/eu/codearte/catch-exception/catch-throwable/1.4.4" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/eu/codearte/catch-exception/catch-throwable/1.4.4" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/eu/codearte/catch-exception/catch-throwable/1.4.4" recursive="false" type="SOURCES" />
+    </library>
+    <library name="javax.activation:activation:1.1.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="javax.jms:com.springsource.javax.jms:1.1.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/jms/com.springsource.javax.jms/1.1.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/jms/com.springsource.javax.jms/1.1.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/jms/com.springsource.javax.jms/1.1.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/jms/com.springsource.javax.jms/1.1.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="javax.mail:mail:1.4.7">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/mail/mail/1.4.7" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/mail/mail/1.4.7" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/mail/mail/1.4.7" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/mail/mail/1.4.7" recursive="false" type="SOURCES" />
+    </library>
+    <library name="javax.servlet.jsp:jsp-api:2.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/servlet/jsp/jsp-api/2.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/servlet/jsp/jsp-api/2.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/servlet/jsp/jsp-api/2.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/servlet/jsp/jsp-api/2.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="javax.servlet:javax.servlet-api:3.1.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="javax.servlet:servlet-api:2.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="javax.transaction:com.springsource.javax.transaction:1.1.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/transaction/com.springsource.javax.transaction/1.1.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/javax/transaction/com.springsource.javax.transaction/1.1.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/transaction/com.springsource.javax.transaction/1.1.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/javax/transaction/com.springsource.javax.transaction/1.1.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="jdom:jdom:1.0b8">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/jdom/jdom/1.0b8" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/jdom/jdom/1.0b8" recursive="false" />
+    </library>
+    <library name="junit:junit:4.12">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/junit/junit/4.12" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/junit/junit/4.12" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/junit/junit/4.12" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/junit/junit/4.12" recursive="false" type="SOURCES" />
+    </library>
+    <library name="mx4j:mx4j-jmx:2.0.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-jmx/2.0.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-jmx/2.0.1" recursive="false" />
+    </library>
+    <library name="mx4j:mx4j-remote:2.0.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-remote/2.0.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-remote/2.0.1" recursive="false" />
+    </library>
+    <library name="mx4j:mx4j-tools:1.1.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-tools/1.1.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-tools/1.1.1" recursive="false" />
+    </library>
+    <library name="mx4j:mx4j:2.0.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/mx4j/mx4j/2.0.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/mx4j/mx4j/2.0.1" recursive="false" />
+    </library>
+    <library name="net.java.dev.jna:jna:4.0.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.0.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.0.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.0.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.0.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="net.sourceforge.jline:jline:1.0.S2-B">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/net/sourceforge/jline/jline/1.0.S2-B" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/net/sourceforge/jline/jline/1.0.S2-B" recursive="false" />
+    </library>
+    <library name="org.apache.ant:ant:1.8.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/ant/ant/1.8.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/ant/ant/1.8.4" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/ant/ant/1.8.4" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/ant/ant/1.8.4" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.bcel:bcel:5.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/bcel/bcel/5.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/bcel/bcel/5.2" recursive="false" />
+    </library>
+    <library name="org.apache.derby:derby:10.4.2.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/derby/derby/10.4.2.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/derby/derby/10.4.2.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/derby/derby/10.4.2.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/derby/derby/10.4.2.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.derby:derbynet:10.4.2.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/derby/derbynet/10.4.2.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/derby/derbynet/10.4.2.0" recursive="false" />
+    </library>
+    <library name="org.apache.httpcomponents:httpclient:4.3.3">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.3" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.3" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.3" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.httpcomponents:httpcore:4.3.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.logging.log4j:log4j-api:2.8.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.8.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.8.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.8.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.8.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.logging.log4j:log4j-core:2.8.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.8.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.8.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.8.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.8.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.logging.log4j:log4j-jcl:2.8.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jcl/2.8.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jcl/2.8.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jcl/2.8.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jcl/2.8.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.logging.log4j:log4j-jul:2.8.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jul/2.8.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jul/2.8.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jul/2.8.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jul/2.8.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.logging.log4j:log4j-slf4j-impl:2.8.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-slf4j-impl/2.8.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-slf4j-impl/2.8.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-slf4j-impl/2.8.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-slf4j-impl/2.8.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.tomcat.embed:tomcat-embed-core:7.0.30">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/7.0.30" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/7.0.30" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/7.0.30" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/7.0.30" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.tomcat.embed:tomcat-embed-jasper:7.0.30">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.30" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.30" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.30" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.30" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.apache.tomcat.embed:tomcat-embed-logging-juli:7.0.30">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.30" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.30" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.30" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.30" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.assertj:assertj-core:2.5.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/assertj/assertj-core/2.5.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/assertj/assertj-core/2.5.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/assertj/assertj-core/2.5.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/assertj/assertj-core/2.5.0" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.eclipse.jdt.core.compiler:ecj:3.7.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/3.7.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/3.7.2" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/3.7.2" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/3.7.2" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.eclipse.jdt:core:3.1.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/3.1.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/3.1.1" recursive="false" />
+    </library>
+    <library name="org.eclipse.jetty:jetty-http:9.2.13.v20150730">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.2.13.v20150730" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.2.13.v20150730" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.2.13.v20150730" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.2.13.v20150730" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.eclipse.jetty:jetty-io:9.2.13.v20150730">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.2.13.v20150730" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.2.13.v20150730" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.2.13.v20150730" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.2.13.v20150730" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.eclipse.jetty:jetty-server:9.2.13.v20150730">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.2.13.v20150730" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.2.13.v20150730" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.2.13.v20150730" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.2.13.v20150730" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.eclipse.jetty:jetty-servlet:9.2.13.v20150730">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.2.13.v20150730" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.2.13.v20150730" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.2.13.v20150730" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.2.13.v20150730" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.eclipse.jetty:jetty-util:9.2.13.v20150730">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.2.13.v20150730" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.2.13.v20150730" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.2.13.v20150730" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.2.13.v20150730" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.eclipse.jetty:jetty-webapp:9.2.13.v20150730">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-webapp/9.2.13.v20150730" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-webapp/9.2.13.v20150730" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-webapp/9.2.13.v20150730" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-webapp/9.2.13.v20150730" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.eclipse.jetty:jetty-xml:9.2.13.v20150730">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-xml/9.2.13.v20150730" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-xml/9.2.13.v20150730" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-xml/9.2.13.v20150730" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-xml/9.2.13.v20150730" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.fusesource.jansi:jansi:1.8">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.8" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.8" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.8" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.8" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.hamcrest:hamcrest-all:1.3">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.jacoco:org.jacoco.agent:0.6.2.201302030002">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/jacoco/org.jacoco.agent/0.6.2.201302030002" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/jacoco/org.jacoco.agent/0.6.2.201302030002" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jacoco/org.jacoco.agent/0.6.2.201302030002" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jacoco/org.jacoco.agent/0.6.2.201302030002" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.javassist:javassist:3.20.0-GA">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.jmock:jmock-junit4:2.8.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/jmock/jmock-junit4/2.8.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/jmock/jmock-junit4/2.8.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jmock/jmock-junit4/2.8.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jmock/jmock-junit4/2.8.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.jmock:jmock-legacy:2.8.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/jmock/jmock-legacy/2.8.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/jmock/jmock-legacy/2.8.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jmock/jmock-legacy/2.8.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jmock/jmock-legacy/2.8.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.jmock:jmock:2.8.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/jmock/jmock/2.8.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/jmock/jmock/2.8.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jmock/jmock/2.8.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jmock/jmock/2.8.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.json4s:json4s-ast_2.10:3.2.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-ast_2.10/3.2.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-ast_2.10/3.2.4" recursive="false" />
+    </library>
+    <library name="org.json4s:json4s-core_2.10:3.2.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-core_2.10/3.2.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-core_2.10/3.2.4" recursive="false" />
+    </library>
+    <library name="org.json4s:json4s-ext_2.10:3.2.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-ext_2.10/3.2.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-ext_2.10/3.2.4" recursive="false" />
+    </library>
+    <library name="org.json4s:json4s-jackson_2.10:3.2.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-jackson_2.10/3.2.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-jackson_2.10/3.2.4" recursive="false" />
+    </library>
+    <library name="org.json4s:json4s-native_2.10:3.2.4">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-native_2.10/3.2.4" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/json4s/json4s-native_2.10/3.2.4" recursive="false" />
+    </library>
+    <library name="org.mockito:mockito-core:1.10.19">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.10.19" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.10.19" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.10.19" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.10.19" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.mortbay.jetty:jetty-util:6.1.3">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty-util/6.1.3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty-util/6.1.3" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty-util/6.1.3" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty-util/6.1.3" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.mortbay.jetty:jetty:6.1.3">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty/6.1.3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty/6.1.3" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty/6.1.3" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty/6.1.3" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.mortbay.jetty:servlet-api:2.5.20110712">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/servlet-api/2.5.20110712" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/servlet-api/2.5.20110712" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/servlet-api/2.5.20110712" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/mortbay/jetty/servlet-api/2.5.20110712" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.objenesis:objenesis:2.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.ow2.asm:asm:5.0.3">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.3" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.3" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.3" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.powermock:powermock-api-mockito-common:1.6.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-mockito-common/1.6.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-mockito-common/1.6.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-mockito-common/1.6.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-mockito-common/1.6.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.powermock:powermock-api-mockito:1.6.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-mockito/1.6.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-mockito/1.6.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-mockito/1.6.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-mockito/1.6.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.powermock:powermock-api-support:1.6.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-support/1.6.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-support/1.6.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-support/1.6.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-api-support/1.6.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.powermock:powermock-core:1.6.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.powermock:powermock-module-junit4-common:1.6.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-module-junit4-common/1.6.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-module-junit4-common/1.6.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-module-junit4-common/1.6.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-module-junit4-common/1.6.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.powermock:powermock-module-junit4:1.6.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-module-junit4/1.6.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-module-junit4/1.6.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-module-junit4/1.6.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-module-junit4/1.6.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.powermock:powermock-reflect:1.6.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.scala-lang:scala-library:2.10.6">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.6" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.6" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.6" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.6" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.scala-lang:scala-reflect:2.10.6">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.10.6" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.10.6" recursive="false" />
+    </library>
+    <library name="org.slf4j:slf4j-api:1.7.7">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework.data:spring-data-commons:1.10.0.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.10.0.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.10.0.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.10.0.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.10.0.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework.data:spring-data-gemfire:1.6.0.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-gemfire/1.6.0.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-gemfire/1.6.0.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-gemfire/1.6.0.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-gemfire/1.6.0.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework.hateoas:spring-hateoas:0.6.0.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas/spring-hateoas/0.6.0.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas/spring-hateoas/0.6.0.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas/spring-hateoas/0.6.0.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas/spring-hateoas/0.6.0.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework.shell:spring-shell:1.0.0.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/shell/spring-shell/1.0.0.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/shell/spring-shell/1.0.0.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/shell/spring-shell/1.0.0.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/shell/spring-shell/1.0.0.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-aop:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-aspects:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-beans:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-context-support:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-context:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-core:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-expression:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-jdbc:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-jms:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jms/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-orm:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-oxm:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-oxm/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-oxm/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-oxm/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-oxm/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-test:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-tx:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-web:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-webmvc-portlet:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc-portlet/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc-portlet/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc-portlet/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc-portlet/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.springframework:spring-webmvc:3.2.18.RELEASE">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.18.RELEASE" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.18.RELEASE" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.18.RELEASE" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.18.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.xerial.snappy:snappy-java:1.0.4.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.0.4.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.0.4.1" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.0.4.1" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.0.4.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="pl.pragmatists:JUnitParams:1.0.5">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.0.5" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.0.5" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.0.5" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/pl/pragmatists/JUnitParams/1.0.5" recursive="false" type="SOURCES" />
+    </library>
+    <library name="spy:spymemcached:2.6">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/spy/spymemcached/2.6" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/spy/spymemcached/2.6" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/spy/spymemcached/2.6" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/spy/spymemcached/2.6" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</application>
