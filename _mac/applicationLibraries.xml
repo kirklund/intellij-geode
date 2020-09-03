@@ -271,14 +271,6 @@
       <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor/1.0.0.RELEASE" recursive="false" />
       <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor/1.0.0.RELEASE" recursive="false" type="SOURCES" />
     </library>
-    <library name="com.springsource.vfabric:licensing-client:5.3.0.3">
-      <CLASSES>
-        <root url="file://$MAVEN_REPOSITORY$/com/springsource/vfabric/licensing-client/5.3.0.3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/vfabric/licensing-client/5.3.0.3" recursive="false" />
-    </library>
     <library name="com.thoughtworks.paranamer:paranamer:2.8">
       <CLASSES>
         <root url="file://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.8" />
