@@ -175,6 +175,17 @@
       <jarDirectory url="file://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0" recursive="false" />
       <jarDirectory url="file://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0" recursive="false" type="SOURCES" />
     </library>
+    <library name="com.io7m.xom:xom:1.2.10">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/io7m/xom/xom/1.2.10" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/com/io7m/xom/xom/1.2.10" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/io7m/xom/xom/1.2.10" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/io7m/xom/xom/1.2.10" recursive="false" type="SOURCES" />
+    </library>
     <library name="com.jayway.awaitility:awaitility:1.7.0">
       <CLASSES>
         <root url="file://$MAVEN_REPOSITORY$/com/jayway/awaitility/awaitility/1.7.0" />
