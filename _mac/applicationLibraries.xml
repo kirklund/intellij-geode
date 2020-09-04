@@ -238,6 +238,14 @@
       <jarDirectory url="file://$MAVEN_REPOSITORY$/com/mangofactory/swagger-springmvc/0.8.2" recursive="false" />
       <jarDirectory url="file://$MAVEN_REPOSITORY$/com/mangofactory/swagger-springmvc/0.8.2" recursive="false" type="SOURCES" />
     </library>
+    <library name="com.oracle.jdbc:com.springsource.oracle.jdbc:10.2.0.2">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/oracle/jdbc/com.springsource.oracle.jdbc/10.2.0.2" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/oracle/jdbc/com.springsource.oracle.jdbc/10.2.0.2" recursive="false" />
+    </library>
     <library name="com.springsource.bundlor:com.springsource.bundlor.ant:1.0.0.RELEASE">
       <CLASSES>
         <root url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor.ant/1.0.0.RELEASE" />
@@ -270,6 +278,14 @@
       </SOURCES>
       <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor/1.0.0.RELEASE" recursive="false" />
       <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/bundlor/com.springsource.bundlor/1.0.0.RELEASE" recursive="false" type="SOURCES" />
+    </library>
+    <library name="com.springsource.vfabric.licensing:io.github.kirklund.com.springsource.vfabric.licensing:5.3.0.3">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/com/springsource/vfabric/licensing/io.github.kirklund.com.springsource.vfabric.licensing/5.3.0.3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/com/springsource/vfabric/licensing/io.github.kirklund.com.springsource.vfabric.licensing/5.3.0.3" recursive="false" />
     </library>
     <library name="com.thoughtworks.paranamer:paranamer:2.8">
       <CLASSES>
@@ -540,6 +556,14 @@
       <JAVADOC />
       <SOURCES />
       <jarDirectory url="file://$MAVEN_REPOSITORY$/net/sourceforge/jline/jline/1.0.S2-B" recursive="false" />
+    </library>
+    <library name="nu.xom:io.github.kirklund.nu.xom:1.2.9">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/nu/xom/io.github.kirklund.nu.xom/1.2.9" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/nu/xom/io.github.kirklund.nu.xom/1.2.9" recursive="false" />
     </library>
     <library name="org.apache.ant:ant-junit:1.8.4">
       <CLASSES>
@@ -975,6 +999,17 @@
       </SOURCES>
       <jarDirectory url="file://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1" recursive="false" />
       <jarDirectory url="file://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.osgi:org.osgi.core:4.2.0">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/4.2.0" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/4.2.0" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/4.2.0" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/org/osgi/org.osgi.core/4.2.0" recursive="false" type="SOURCES" />
     </library>
     <library name="org.ow2.asm:asm:5.0.3">
       <CLASSES>
