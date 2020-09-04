@@ -506,6 +506,14 @@
       <jarDirectory url="file://$MAVEN_REPOSITORY$/junit/junit/4.12" recursive="false" />
       <jarDirectory url="file://$MAVEN_REPOSITORY$/junit/junit/4.12" recursive="false" type="SOURCES" />
     </library>
+    <library name="mx4j:io.github.kirklund.mx4j-tools:2.0.1">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/mx4j/io.github.kirklund.mx4j-tools/2.0.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/mx4j/io.github.kirklund.mx4j-tools/2.0.1" recursive="false" />
+    </library>
     <library name="mx4j:mx4j-jmx:2.0.1">
       <CLASSES>
         <root url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-jmx/2.0.1" />
@@ -521,14 +529,6 @@
       <JAVADOC />
       <SOURCES />
       <jarDirectory url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-remote/2.0.1" recursive="false" />
-    </library>
-    <library name="mx4j:mx4j-tools:1.1.1">
-      <CLASSES>
-        <root url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-tools/1.1.1" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-      <jarDirectory url="file://$MAVEN_REPOSITORY$/mx4j/mx4j-tools/1.1.1" recursive="false" />
     </library>
     <library name="mx4j:mx4j:2.0.1">
       <CLASSES>
