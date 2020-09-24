@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../geode-dunit/src/main/java/org/apache/geode/test/dunit/DUnitBlackboard.java [org.apache.geode.geode-dunit.main]'" />
-    <option name="defaultScopeName" value="File '.../geode-dunit/src/main/java/org/apache/geode/test/dunit/DUnitBlackboard.java [org.apache.geode.geode-dunit.main]'" />
+    <option name="customScope" value="File '.../geode-dunit/src/distributedTest/java/org/apache/geode/test/dunit/internal/DUnitBlackboardDUnitTest.java [org.apache.geode.geode-dunit.distributedTest]'" />
+    <option name="defaultScopeName" value="File '.../geode-dunit/src/distributedTest/java/org/apache/geode/test/dunit/internal/DUnitBlackboardDUnitTest.java [org.apache.geode.geode-dunit.distributedTest]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="regularExpressions" value="true" />
@@ -10,6 +10,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../geode-dunit/src/main/java/org/apache/geode/test/dunit/DUnitBlackboard.java [org.apache.geode.geode-dunit.main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../geode-dunit/src/distributedTest/java/org/apache/geode/test/dunit/internal/DUnitBlackboardDUnitTest.java [org.apache.geode.geode-dunit.distributedTest]'" />
   </component>
 </application>
