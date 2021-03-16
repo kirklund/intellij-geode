@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-gfsh/src/integrationTest/java/org/apache/geode/management/internal/cli/TableBuilderJUnitTest.java [org.apache.geode.geode-gfsh.integrationTest]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-gfsh/src/integrationTest/java/org/apache/geode/management/internal/cli/TableBuilderJUnitTest.java [org.apache.geode.geode-gfsh.integrationTest]'" />
+    <option name="customScope" value="File '~/dev/gemfire/geode/geode-gfsh/src/main/java/org/apache/geode/management/internal/cli/result/CommandResultException.java [org.apache.geode.geode-gfsh.main]'" />
+    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-gfsh/src/main/java/org/apache/geode/management/internal/cli/result/CommandResultException.java [org.apache.geode.geode-gfsh.main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-gfsh/src/integrationTest/java/org/apache/geode/management/internal/cli/TableBuilderJUnitTest.java [org.apache.geode.geode-gfsh.integrationTest]'" />
+    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-gfsh/src/main/java/org/apache/geode/management/internal/cli/result/CommandResultException.java [org.apache.geode.geode-gfsh.main]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
