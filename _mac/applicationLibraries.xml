@@ -1390,5 +1390,16 @@
       <jarDirectory url="file://$MAVEN_REPOSITORY$/spy/spymemcached/2.6" recursive="false" />
       <jarDirectory url="file://$MAVEN_REPOSITORY$/spy/spymemcached/2.6" recursive="false" type="SOURCES" />
     </library>
+    <library name="ysoserial:ysoserial:0.0.6-SNAPSHOT">
+      <CLASSES>
+        <root url="file://$MAVEN_REPOSITORY$/ysoserial/ysoserial/0.0.6-SNAPSHOT" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$MAVEN_REPOSITORY$/ysoserial/ysoserial/0.0.6-SNAPSHOT" />
+      </SOURCES>
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/ysoserial/ysoserial/0.0.6-SNAPSHOT" recursive="false" />
+      <jarDirectory url="file://$MAVEN_REPOSITORY$/ysoserial/ysoserial/0.0.6-SNAPSHOT" recursive="false" type="SOURCES" />
+    </library>
   </component>
 </application>
