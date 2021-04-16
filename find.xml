@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../geode-core/src/main/java/org/apache/geode/cache/PartitionedRegionPartialClearException.java [geode.geode-core.main]'" />
-    <option name="defaultScopeName" value="File '.../geode-core/src/main/java/org/apache/geode/cache/PartitionedRegionPartialClearException.java [geode.geode-core.main]'" />
+    <option name="customScope" value="File '.../geode-core/src/main/java/org/apache/geode/internal/cache/PartitionedRegionClearMessage.java [geode.geode-core.main]'" />
+    <option name="defaultScopeName" value="File '.../geode-core/src/main/java/org/apache/geode/internal/cache/PartitionedRegionClearMessage.java [geode.geode-core.main]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../geode-core/src/main/java/org/apache/geode/cache/PartitionedRegionPartialClearException.java [geode.geode-core.main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../geode-core/src/main/java/org/apache/geode/internal/cache/PartitionedRegionClearMessage.java [geode.geode-core.main]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
