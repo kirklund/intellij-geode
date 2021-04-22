@@ -4,8 +4,10 @@
     <option name="customScope" value="File '.../geode-core/src/test/java/org/apache/geode/internal/classloader/ClassPathLoaderTest.java [geode.geode-core.test]'" />
     <option name="defaultScopeName" value="File '.../geode-core/src/test/java/org/apache/geode/internal/classloader/ClassPathLoaderTest.java [geode.geode-core.test]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../geode-core/src/test/java/org/apache/geode/internal/classloader/ClassPathLoaderTest.java [geode.geode-core.test]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
