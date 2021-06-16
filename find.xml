@@ -1,14 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '~/dev/gemfire/geode/geode-cq/src/distributedTest/java/org/apache/geode/internal/cache/PutAllClientServerDistributedTest.java [geode.geode-cq.distributedTest]'" />
-    <option name="defaultScopeName" value="File '~/dev/gemfire/geode/geode-cq/src/distributedTest/java/org/apache/geode/internal/cache/PutAllClientServerDistributedTest.java [geode.geode-cq.distributedTest]'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
+    <option name="customScope" value="File '.../geode-core/src/distributedTest/java/org/apache/geode/internal/cache/PartitionedRegionClearWithRebalanceDUnitTest.java [geode.geode-core.distributedTest]'" />
+    <option name="defaultScopeName" value="File '.../geode-core/src/distributedTest/java/org/apache/geode/internal/cache/PartitionedRegionClearWithRebalanceDUnitTest.java [geode.geode-core.distributedTest]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/dev/gemfire/geode/geode-cq/src/distributedTest/java/org/apache/geode/internal/cache/PutAllClientServerDistributedTest.java [geode.geode-cq.distributedTest]'" />
+    <option name="SEARCH_SCOPE" value="File '.../geode-core/src/distributedTest/java/org/apache/geode/internal/cache/PartitionedRegionClearWithRebalanceDUnitTest.java [geode.geode-core.distributedTest]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
